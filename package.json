@@ -1,0 +1,23 @@
+{
+  "name": "ex-word-exist-or-not",
+  "version": "1.0.0",
+  "description": "test word or not",
+  "homepage": "https://github.com/ikerardi-dev/ex-word-exist-or-not#readme",
+  "bugs": {
+    "url": "https://github.com/ikerardi-dev/ex-word-exist-or-not/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikerardi-dev/ex-word-exist-or-not.git"
+  },
+  "license": "ISC",
+  "author": "iker",
+  "type": "module",
+  "main": "javascript.test.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.8"
+  }
+}
